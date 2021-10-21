@@ -19,5 +19,32 @@ Si quieres contribuir a nuestro proyecto , tienes que seguir los siguientes paso
 
 Necesitaras las siguientes herramientas para poder ejecutar el proyecto
 
-- a
+- Node.Js 6.5+
+- MySQL 8+
+- npm 4+
+- Angular cli
+- Angular 8x
+- lonic 2.x
+
+# Ejecutar el proyecto
+
+Una vez instalados todos los programas necesarios, solo necesitas clonar nuestro repositorio
+
+`gh repo clone <repo>`
+
+Despue de ello entra a nuestro proyecto y ejecútalo:
+
+`npm start`
+
+# Progreso
+
+| Cargo | Encargado |
+| --- | --- |
+| Frontend | Magnus Carlsen |
+| Backend | MVL |
+| Database | Andrew Tang |
+
+
+
+
   
